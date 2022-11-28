@@ -1,0 +1,49 @@
+body{
+    text-align:center;
+}
+#games{
+    text-align:center;
+}
+.games{
+    height: 800px;
+    width: 700px;
+    border-radius:30%;
+}
+
+#games{
+    padding: 50px;
+background-color:CFFDE1;
+color:1D1CE5;
+font-size:40px;
+font-family:cursive;
+height:100%;
+width:100%;
+}
+.connect{
+    padding-left: 35px;
+    padding-right: 23px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:22px;
+    padding-top: 5px;
+    display: inline;
+}
+
+.menu{
+    text-decoration: none;
+    position:fixed;
+    margin-top:0px;
+    top: 0px;
+    z-index:10;
+    width:100%;
+    text-decoration-color:22A39F;
+    background-color:FFEFD6;
+
+}
+#intro{
+    height:300px;
+    width:300px;
+    border-radius:20%;
+}
+img:hover{
+    transform:scale(0.90)
+}
